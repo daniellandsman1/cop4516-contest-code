@@ -1,5 +1,5 @@
-// MasterMathAlgorithms.java
-// Collection of useful math algorithms for contests.
+// MoreMathAlgos.java
+// BIGINT, LCM, EULER PHI, MOD INVERSE, FAST MOD EXPONENTIATION, SUM/NUM DIVISORS
 
 import java.math.BigInteger;
 import java.util.*;
