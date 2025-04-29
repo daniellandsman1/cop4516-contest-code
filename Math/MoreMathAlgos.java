@@ -39,7 +39,7 @@ public class MasterMathAlgorithms {
         int num = 28;
         System.out.println("Sum of divisors of " + num + ": " + sumOfDivisors(num));
 
-        // Numbre of divisors example
+        // Number of divisors example
         int numD = 28;
         System.out.println("Number of divisors of " + numD + ": " + numberOfDivisors(numD));
     }
